@@ -6,7 +6,4 @@ peter
 in Jesuse name, Amen
 in uat
 qa testing completed
-<<<<<<< HEAD
-
-=======
->>>>>>> 4bb799d (qa testing)
+stage
